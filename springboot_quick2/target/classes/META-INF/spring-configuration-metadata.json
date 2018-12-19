@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "person",
+      "type": "com.itheima.springboot_quick2.controller.quick2Controller",
+      "sourceType": "com.itheima.springboot_quick2.controller.quick2Controller"
+    }
+  ],
+  "properties": [
+    {
+      "name": "person.address",
+      "type": "java.lang.String",
+      "sourceType": "com.itheima.springboot_quick2.controller.quick2Controller"
+    },
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.itheima.springboot_quick2.controller.quick2Controller"
+    },
+    {
+      "name": "person.name",
+      "type": "java.lang.String",
+      "sourceType": "com.itheima.springboot_quick2.controller.quick2Controller"
+    }
+  ],
+  "hints": []
+}
